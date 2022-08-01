@@ -9,6 +9,4 @@ public class break_continue {
             System.out.println(i);
         }
     }
-
-
 }
