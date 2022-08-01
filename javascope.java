@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class javascope {
+public class javascope {
+
+    public static void main(String[] args){
+        int x=100;
+        System.out.println(x);
+    }
 }
