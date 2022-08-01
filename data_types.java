@@ -6,6 +6,5 @@ public class data_types {
        char myLetter='M'; //Character
        boolean myBool=true; //Boolean
        String myText="Hello"; //String
-
    }
 }
