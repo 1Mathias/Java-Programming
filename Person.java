@@ -10,4 +10,8 @@ public class Person {
     public void setName(String newName) {
         this.name = newName;
     }
+
+    public void walking(){
+        System.out.println("Walking with God");
+    }
 }
