@@ -7,18 +7,19 @@ package Questions;
 public class Question1 {
 
     public static void main(String[] args){
-        isEvens(500);
+       System.out.println(isEvens(400));
        // System.out.println(isEvens(50));
     }
    static int isEvens(int n){
         while(n!=0){
             int x=n%10;
-            System.out.println( x=n%10);
+            System.out.println("x"+x);
             if(x%2!=0)
                 return 0;
             n=n/10;
+            System.out.println("n"+n);
         }
-       return 1;
-    }
+        return  1;
+   }
 
 }

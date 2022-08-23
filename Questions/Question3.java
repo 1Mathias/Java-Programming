@@ -2,7 +2,7 @@ package Questions;
 
 public class Question3 {
     public static void main(String[] args){
-        int[] b={2,3,4,5,6};
+        int[] b={2,3,5,6,4};
         System.out.println(isComplete(b));
     }
     static int isComplete(int[] a){

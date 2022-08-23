@@ -2,7 +2,7 @@ package Questions;
 
 public class Question2 {
     public static void main(String[] args) {
-        int[] a={11,4, 7};
+        int[] a={20,3,7,9,11,4,6};
         System.out.println(isMagicArray(a));
     }
 
