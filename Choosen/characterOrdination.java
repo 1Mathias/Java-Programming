@@ -3,6 +3,7 @@ package Choosen;
 public class characterOrdination {
     public static void main(String[] args) {
         System.out.println(characterOrdination(new char[]{'a','b','c'},1,2));
+        System.out.println(characterOrdination(new char[]{'a','b','c'},0,4));
     }
 
     static char[] characterOrdination(char[] a, int start, int length) {
